@@ -17,6 +17,16 @@ We're going to be using an IDE called Thonny to write and upload our code to the
 
 Our end goal is getting our badges to display a namebadge for ourselves, which can be customised and hacked further down the line, as and when you decide to give it a fresh new look!
 
+### Step 0: Have you got everything?
+For this to work, you'll need the following:
+* A Badger 2040
+* USB A->C Cable
+* 3D Printed Case (incl. top and bottom)
+
+We have some bolts to hold it all together - but because of insurance we can't legally trust you with tools - once you're happy, we'll fasten everything together for you!
+
+Give us a shout if you're missing anything!
+
 ### Step 1: Setting up
 First, we're going to fire up Thonny - go to the Start Menu and search for Thonny, we've already configured it for you, so you won't need to worry about setting up your Badger as a target! Now you'll need to plug in your Badger - Thonny will detect it and run your code on the Badger, rather than on the machine you're working on. 
 
